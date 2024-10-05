@@ -67,10 +67,6 @@ section h2 {
     position: relative;
 }
 
-section p, .info-list {
-    font-size: 1.1em;
-}
-
 .info-list {
     list-style-type: none;
     padding: 0;
